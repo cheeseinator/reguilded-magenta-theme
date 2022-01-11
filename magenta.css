@@ -1,0 +1,23 @@
+body,
+.CodeContainerRenderer-language-indicator {
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;    
+}
+
+.MarkRenderer-inline-code,
+.MarkRenderer-inline-code-v2,
+.CodeLineRenderer {
+    font-family: "Comic Mono", "Consolas", "Liberation Mono", "Monaco", "Menlo", monospace;
+}
+
+.WindowsTitleBar-container,
+.ChannelWrapper-container,
+.GroupSelector-container,
+.TeamNavMenu-container,
+.Scrollable-container,
+.ScreenHeader-container,
+.Navbar-container,  /* legacy nav */
+.NavV4SharedFooter-container,
+.NavV4Footer-right,
+.ChatChannelInput-container .ChatChannelInput-editor {
+    background-color: magenta;
+}
