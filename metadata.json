@@ -3,5 +3,7 @@
     "name": "magenta",
     "files": "magenta.css",
     "author": "x4oa52Gm",
-    "version": "0xffffff"
-}
+    "version": "0xff00ff",
+    "images": ["./screenshot.png"],
+    "repoUrl": "https://github.com/Cheeseinator/reguilded-magenta-theme"
+} 
